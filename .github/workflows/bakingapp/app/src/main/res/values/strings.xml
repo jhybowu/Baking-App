@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="ingredients_label" translatable="true">Ingredients</string>
+    <string name="key_recipe" translatable="false">recipe</string>
+    <string name="key_recipe_steps" translatable="false">recipe-steps</string>
+    <string name="key_recipe_step" translatable="false">recipe-step</string>
+    <string name="key_recipes" translatable="false">recipes</string>
+    <string name="key_recipe_step_id" translatable="false">recipe-step-id</string>
+    <string name="key_recipe_ingredients" translatable="false">recipe-ingredients</string>
+    <string name="key_video_position" translatable="false">video_position</string>
+
+    <string name="add_widget">Add widget</string>
+    <string name="key_recipe_task_operation" translatable="false">recipe-task-operation</string>
+
+    <string name="recipe_selection_start_label" translatable="true">Start Recipe</string>
+    <string name="recipe_selection_continue_label" translatable="true">Continue Recipe</string>
+    <string name="shared_preferences_name" translatable="false">Baking Preferences</string>
+
+    <string name="default_recipe_widget_text" translatable="true">Recipe</string>
+    <string name="default_ingreident_text" translatable="true">Ingredient</string>
+    <string name="default_measuring_text" translatable="true">Measurement</string>
+    <string name="default_quantity_text" translatable="true">Quantity</string>
+
+    <string name="recipe_image_description" translatable="true">Image of the recipe.</string>
+
+    <string name="recipe_detail_step_description_label" translatable="true">Step Description</string>
+    <string name="recipe_detail_step_video_label" translatable="true">Step Video</string>
+    <string name="recipe_detail_step_thumbnail_label" translatable="true">Step Thumbnail</string>
+
+    <string name="recipe_one" translatable="false">Nutella Pie</string>
+    <string name="recipe_two" translatable="false">Brownies</string>
+    <string name="recipe_three" translatable="false">Yellow Cake</string>
+    <string name="recipe_four" translatable="false">Cheesecake</string>
+    <string name="navitgate_up_button_description" translatable="false">Navigate up</string>
+</resources>
